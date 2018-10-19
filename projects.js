@@ -3,7 +3,7 @@ const projects = [
     slug: 'air-conditioner',
     name: "Air Conditioner",
     media: 'Modeling experiment',
-    category: 'Personal project',
+    category: 'personal',
     year: '2017',
     type: '3D modeling and animation',
     technologies: [
@@ -18,7 +18,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: '3D modeling',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -30,7 +30,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: '3D modeling',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -41,7 +41,7 @@ const projects = [
     name: "L'amour avec des crocos",
     media: 'Title sequence',
     customer: 'Roméo Elvis',
-    category: 'Professional project',
+    category: 'professional',
     year: '2018',
     type: '3D modeling and animation',
     contributors: [
@@ -59,7 +59,7 @@ const projects = [
     media: 'Concept Art',
     year: '2018',
     type: '3D modeling and lighting',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -71,7 +71,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting a scene',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -84,7 +84,7 @@ const projects = [
     customer: 'Danslamercedesnacree',
     year: '2018',
     type: '3D dynamics and texturing',
-    category: 'Professional project',
+    category: 'professional',
     technologies: [
       'Cinema 4D',
       'Marvelous Designer',
@@ -97,7 +97,7 @@ const projects = [
     media: 'Concept Art',
     year: '2018',
     type: '3D modeling and lighting',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -109,7 +109,7 @@ const projects = [
     media: 'Texturing experiment',
     year: '2017',
     type: '3D modeling and texturing',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -121,7 +121,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: '3D modeling and lighting',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -134,7 +134,7 @@ const projects = [
     customer: 'Nathan Almeras',
     year: '2018',
     type: '3D modeling and rigging',
-    category: 'Professional project',
+    category: 'professional',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -146,7 +146,7 @@ const projects = [
     media: 'Texturing and lighting experiment',
     year: '2017',
     type: '3D modeling',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -158,7 +158,7 @@ const projects = [
     media: 'Procedural modeling experiment',
     year: '2018',
     type: '3D modeling',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -170,7 +170,7 @@ const projects = [
     media: 'Style frame',
     year: '2018',
     type: '3D modeling and lighting',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -182,7 +182,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting compositing',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -194,7 +194,7 @@ const projects = [
     media: 'Procedural ground generation',
     year: '2017',
     type: '3D modeling',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -206,7 +206,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting compositing',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -218,7 +218,7 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting compositing',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -230,7 +230,7 @@ const projects = [
     media: 'Scattering experiment',
     year: '2017',
     type: '3D composition and lighting',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -242,7 +242,7 @@ const projects = [
     media: 'Scattering experiment',
     year: '2017',
     type: 'Lighting experiment',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -254,7 +254,7 @@ const projects = [
     media: 'Prodecural composition',
     year: '2018',
     type: '3D modeling and composition',
-    category: 'Personal project',
+    category: 'personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
