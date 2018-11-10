@@ -3,9 +3,12 @@ const projects = [
     slug: 'air-conditioner',
     name: "Air Conditioner",
     media: 'Modeling experiment',
-    category: 'personal',
+    category: 'Personal',
     year: '2017',
     type: '3D modeling and animation',
+    comment: [
+      "My first high detailed modeling and animation using Octane Renderer"
+    ],
     technologies: [
       'Cinema 4D',
       'Photoshop',
@@ -18,7 +21,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: '3D modeling',
-    category: 'personal',
+    comment: [
+      "My first render ever using Octane Renderer"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -30,7 +36,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: '3D modeling',
-    category: 'personal',
+    comment: [
+      "Experimenting caustics in a natural environment"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -41,11 +50,11 @@ const projects = [
     name: "L'amour avec des crocos",
     media: 'Title sequence',
     customer: 'Roméo Elvis',
-    category: 'professional',
+    category: 'Professional',
     year: '2018',
     type: '3D modeling and animation',
-    contributors: [
-      "Typographic work by my man <a href='#'>Nathan Almeras</a>"
+    comment: [
+      "Typographic work by my man <a href='https://www.instagram.com/nathan_almeras/?hl=fr'>Nathan Almeras</a>"
     ],
     technologies: [
       'Cinema 4D',
@@ -59,7 +68,10 @@ const projects = [
     media: 'Concept Art',
     year: '2018',
     type: '3D modeling and lighting',
-    category: 'personal',
+    comment: [
+      "A scene I created thanks to <a href='https://kitbash3d.com/'>Kitbash3D's Victorian kit</a>"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -71,7 +83,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting a scene',
-    category: 'personal',
+    comment: [
+      "Lighting projection experiment in a foggy environment"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -84,7 +99,10 @@ const projects = [
     customer: 'Danslamercedesnacree',
     year: '2018',
     type: '3D dynamics and texturing',
-    category: 'professional',
+    comment: [
+      "Concept I realised for a future music video project"
+    ],
+    category: 'Professional',
     technologies: [
       'Cinema 4D',
       'Marvelous Designer',
@@ -97,7 +115,10 @@ const projects = [
     media: 'Concept Art',
     year: '2018',
     type: '3D modeling and lighting',
-    category: 'personal',
+    comment: [
+      "A scene I created thanks to <a href='https://kitbash3d.com/'>Kitbash3D's Warzone kit</a>"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -109,7 +130,10 @@ const projects = [
     media: 'Texturing experiment',
     year: '2017',
     type: '3D modeling and texturing',
-    category: 'personal',
+    comment: [
+      "Experimenting around with a <a href='https://windmillart.net/?p=jsplacement'>JSplacement</a> displacement map"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -121,7 +145,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: '3D modeling and lighting',
-    category: 'personal',
+    comment: [
+      "Lighting experiment with light crossing layers of glass"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -134,7 +161,10 @@ const projects = [
     customer: 'Nathan Almeras',
     year: '2018',
     type: '3D modeling and rigging',
-    category: 'professional',
+    comment: [
+      "I realised a serie of animated butterflies for a conceptual short film"
+    ],
+    category: 'Professional',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -146,7 +176,10 @@ const projects = [
     media: 'Texturing and lighting experiment',
     year: '2017',
     type: '3D modeling',
-    category: 'personal',
+    comment: [
+      "I actually meant to create wood until it got crazy"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -158,7 +191,10 @@ const projects = [
     media: 'Procedural modeling experiment',
     year: '2018',
     type: '3D modeling',
-    category: 'personal',
+    comment: [
+      "Experiment around the capabilities of procedural modeling techniques"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -170,7 +206,10 @@ const projects = [
     media: 'Style frame',
     year: '2018',
     type: '3D modeling and lighting',
-    category: 'personal',
+    comment: [
+      "Inspired by the serie Altered Carbon"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -182,7 +221,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting compositing',
-    category: 'personal',
+    comment: [
+      "One of many iridescent textures experiment"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -194,7 +236,10 @@ const projects = [
     media: 'Procedural ground generation',
     year: '2017',
     type: '3D modeling',
-    category: 'personal',
+    comment: [
+      "Trying to recreate sand using procedural techniques"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -206,7 +251,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting compositing',
-    category: 'personal',
+    comment: [
+      "Early training on how to work with lights in Octane Renderer"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -218,7 +266,10 @@ const projects = [
     media: 'Lighting experiment',
     year: '2017',
     type: 'Lighting compositing',
-    category: 'personal',
+    comment: [
+      "Misty waves with a displacement map"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -230,7 +281,10 @@ const projects = [
     media: 'Scattering experiment',
     year: '2017',
     type: '3D composition and lighting',
-    category: 'personal',
+    comment: [
+      "Working around the isometric camera view"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -242,7 +296,10 @@ const projects = [
     media: 'Scattering experiment',
     year: '2017',
     type: 'Lighting experiment',
-    category: 'personal',
+    comment: [
+      "Experimenting with procedural fracture shapes"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
@@ -254,7 +311,10 @@ const projects = [
     media: 'Prodecural composition',
     year: '2018',
     type: '3D modeling and composition',
-    category: 'personal',
+    comment: [
+      "Composition with something related to an iconic face of my childhood"
+    ],
+    category: 'Personal',
     technologies: [
       'Cinema 4D',
       'Photoshop'
